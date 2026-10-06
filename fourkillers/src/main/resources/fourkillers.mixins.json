@@ -5,6 +5,10 @@
   "compatibilityLevel": "JAVA_17",
   "mixins": [
     "ActiveTargetGoalMixin",
+    "LivingEntityMixin",
+    "LookAtEntityGoalMixin"
+  ],
+    "ActiveTargetGoalMixin",
     "LivingEntityMixin"
   ],
   "injectors": {
