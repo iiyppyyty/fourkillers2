@@ -8,9 +8,6 @@
     "LivingEntityMixin",
     "LookAtEntityGoalMixin"
   ],
-    "ActiveTargetGoalMixin",
-    "LivingEntityMixin"
-  ],
   "injectors": {
     "defaultRequire": 1
   }
